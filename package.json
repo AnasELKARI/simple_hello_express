@@ -1,0 +1,11 @@
+{
+  "name":"simple_hello_express",
+  "author":"Anas",
+  "description":"a simple hello aplication to test the server",
+  "dependencies": {
+  	"express": "*"
+  	  },
+  "scripts": {
+  	"start": "node server.js"
+  }
+}
